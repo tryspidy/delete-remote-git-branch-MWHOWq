@@ -1,0 +1,1 @@
+git push --delete remoteName branchName
